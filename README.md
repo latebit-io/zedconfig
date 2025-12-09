@@ -1,0 +1,2 @@
+# zedconfig
+zedconfig
